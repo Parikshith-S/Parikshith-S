@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Parikshith-S
-- 👀 I’m interested in Web designing 
-- 🌱 I’m currently learning php, kotin
-- 💞️ I’m looking to collaborate on start ups and innovative and helpful projects
-- 📫 How to reach me through gmail - parikshith200@gmail.com , https://www.linkedin.com/in/parikshith-s-8662a116b/
+# 👋 Hey, I'm Parikshith  
 
-<!---
-Parikshith-S/Parikshith-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 *Turning ideas into reliable software — one commit at a time.*  
+
+---
+
+## ⚡ About Me
+- 🛠️ **Product QA Developer @ Epicor** — breaking things (so users don’t have to 😉)  
+- 🎓 **Electronics & Communication Engineer** (2022)  
+- 🤖 Exploring **AI + Software Design** to stay future-ready by **2027**  
+- 🌱 Currently leveling up in **Python, C, and ML systems**  
+
+---
+
+## 🔧 Tech Toolbox
+```bash
+Languages:   Python | C | Java | SQL
+Frameworks:  Flask | React | TensorFlow
+Tools:       Git | Docker | Postman | Linux
