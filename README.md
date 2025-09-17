@@ -17,3 +17,8 @@
 Languages:   Python | C | Java | SQL | C#
 Frameworks:  Flask | React | TensorFlow
 Tools:       Git | Docker | Postman | Linux | Selenium
+
+---
+
+## 📈 My GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parikshith-S&theme=radical" alt="streak stats"/> <img src="https://github-readme-stats.vercel.app/api?username=Parikshith-S&show_icons=true&theme=radical" alt="stats"/> </p>
