@@ -14,7 +14,14 @@
 
 ---
 ## 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parikshith-S&theme=radical" alt="streak stats"/> <img src="https://github-readme-stats.vercel.app/api?username=Parikshith-S&show_icons=true&theme=radical" alt="stats"/> </p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parikshith-S&theme=radical" alt="streak stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Parikshith-S&rank_icon=github&theme=radical" alt="stats"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parikshith-S&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="top languages"/>
+</p>
+
 
 ## 🔧 Tech Toolbox
 ```bash
@@ -35,7 +42,14 @@ Tools:       Git | Docker | Postman | Linux | Selenium
 ---
 
 ## 📬 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/parikshith-s/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a> <a href="mailto:parikshith200@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge"/></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/parikshith-s/">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
+</a> 
+<a href="mailto:parikshith200@gmail.com">
+<img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge"/>
+</a>
+<a href="https://parikshith-s.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
 ---
 
