@@ -8,9 +8,10 @@
 
 ## ⚡ About Me
 - 🛠️ **Product QA Developer @ Epicor** — breaking things (so users don’t have to 😉)  
-- 🎓 **Masters in Computer Science from Purdue University** (2025-2025)  
+- 🎓 **Masters in Computer Science from Purdue University** (2025-2027)  
 - 🤖 Exploring **AI + Software Design** to stay future-ready by **2027**  
 - 🌱 Currently leveling up in **Python, C, and ML systems**  
+- 👨‍🔬  Working in NEXIS Lab as **AI Researcher**
 
 ---
 ## 📈 My GitHub Stats
